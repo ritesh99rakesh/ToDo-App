@@ -18,7 +18,7 @@ todo
 ```
 If you get the following output then the app is working
 
-_Add Image Here_
+![No Todo](https://github.com/ritesh99rakesh/ToDo-App/blob/master/images/no_todo.png)
 
 ## How to use
 * 1\. To add a ToDo 
@@ -31,11 +31,11 @@ _Add Image Here_
         * 1.3.4\. `Description`: defaults=`Title`
         * 1.3.5\. `Priority`: 1 is highest, default 
 
-_Add Image Here_
+![Add Todo](https://github.com/ritesh99rakesh/ToDo-App/blob/master/images/add_todo.png)
 * 2\. To edit a ToDo
 
-_Add Image Here_
+![Edit Todo](https://github.com/ritesh99rakesh/ToDo-App/blob/master/images/edit_todo.png)
 * 3\. Delete a ToDo
 
-_Add Image Here_
+![Delete Todo](https://github.com/ritesh99rakesh/ToDo-App/blob/master/images/delete_todo.png)
 
