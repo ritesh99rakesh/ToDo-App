@@ -29,7 +29,7 @@ If you get the following output then the app is working
         * 1.3.2\. `Date`: today, tomorrow, yesterday, number, default today
         * 1.3.3\. `Date`: number corresponds to today+number
         * 1.3.4\. `Description`: defaults=`Title`
-        * 1.3.5\. `Priority`: 1 is highest, default 
+        * 1.3.5\. `Priority`: 1 is highest, default 3
 
 ![Add Todo](https://github.com/ritesh99rakesh/ToDo-App/blob/master/images/add_todo.png)
 * 2\. To edit a ToDo
